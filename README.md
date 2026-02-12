@@ -1,4 +1,4 @@
-# pranay.dev
+# PRANAY-PORTFOLIO
 
 My personal portfolio — built with **Next.js**, **Tailwind CSS**, and deployed on **Vercel**.
 
@@ -13,7 +13,7 @@ My personal portfolio — built with **Next.js**, **Tailwind CSS**, and deployed
 - **Responsive** mobile-first design
 - **Floating dock** navigation with social links
 - **Sections** — Hero, About, Work, Education, Projects, Skills, Contact
-- Clean, minimal aesthetic inspired by [amritwt.me](https://amritwt.me)
+
 
 ## 🛠 Tech Stack
 
