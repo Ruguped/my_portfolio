@@ -1,0 +1,51 @@
+Here is the updated, clean version for your portfolio website. I have removed the financial figures, added the ZK meetups, and adjusted the bio to reflect your transition from Community Ambassador to Developer.
+
+About Me
+I am a Community Ambassador transitioning into a full-time Developer role. With over two years of experience building communities for privacy-focused blockchains, I am now applying that ecosystem knowledge to build functional web applications. My focus is on the intersection of modern web development (Next.js) and decentralized technologies (Base/Farcaster).
+
+Education
+Bachelor of Computer Applications (BCA) University of Rajasthan, Jaipur
+
+Expected Graduation: 2026
+
+
+Work Experience
+Community Ambassador | Aleo Remote & On-site | Jun 2023 – Present
+
+Hosted in-person ZK (Zero-Knowledge) meetups and technical workshops to educate local developers.
+
+Facilitated community growth strategies during the Incentivized Testnet phases.
+
+Acted as a bridge between the protocol engineering team and the non-technical user base.
+
+Frontend Developer | PlayFiesta Jaipur | May 2025 – Present
+
+Developing responsive event and gaming interfaces using React.js and Tailwind CSS.
+
+Migrated legacy web views to a component-based architecture to improve performance.
+
+collaborating with the design team to ensure mobile-first compatibility.
+
+Web Development Intern Jaipur | Nov 2024 – Apr 2025
+
+Built and maintained foundational websites using HTML5, CSS3, and JavaScript.
+
+Assisted with backend API integration and database schemas using Node.js.
+
+Gained production experience with Git version control and collaborative workflows.
+
+Projects
+Dual Caster (Base Mini-App)
+
+A Farcaster Frame built with Next.js and TypeScript that allows users to cross-post content to X (Twitter) and Farcaster simultaneously. Integrated with Privy for seamless authentication.
+
+Technical Skills
+Languages: TypeScript, JavaScript, SQL.
+
+Frontend: React.js, Next.js (App Router), Tailwind CSS.
+
+Backend: Node.js, Express, Prisma, PostgreSQL.
+
+Web3: Farcaster Frames, Base Blockchain, Wagmi.
+
+Web3: Farcaster Frames, Base Blockchain, Wagmi.
