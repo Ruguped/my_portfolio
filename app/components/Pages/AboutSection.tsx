@@ -2,8 +2,8 @@ export default function AboutSection() {
     return (
         <section id="about">
             <h2 className="text-xl font-bold">about</h2>
-            <div className="prose max-w-full text-pretty font-sans text-sm text-muted-foreground mt-2 space-y-5">
-                <p>
+            <div className="prose max-w-full text-pretty font-sans text-[12px] sm:text-sm text-muted-foreground mt-2 space-y-5">
+                <p>     
                     got my start hosting zk meetups in india for aleo — connecting devs, 
                     explaining privacy tech.
                 </p>

@@ -19,7 +19,7 @@ export default function HeroSection() {
                             alt="Pranay"
                             width={112}
                             height={112}
-                            className="rounded-full border size-28 object-cover"
+                            className="rounded-full border-[2px] border-gray-700 size-28 object-cover sm:w-[150px] sm:h-[150px]"
                             priority
                         />
                     </div>

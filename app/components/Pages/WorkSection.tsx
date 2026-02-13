@@ -20,7 +20,7 @@ function WorkCard({ logoSrc, logoAlt, title, subtitle, period, href, description
                         alt={logoAlt}
                         width={48}
                         height={48}
-                        className="rounded-full border size-12 object-cover"
+                        className="rounded-sm border size-12 object-cover"
                     />
                 </div>
                 <div className="grow ml-4">
@@ -45,21 +45,12 @@ function WorkCard({ logoSrc, logoAlt, title, subtitle, period, href, description
 const workData: WorkCardProps[] = [
     {
         logoSrc: "/base-app-icon.png",
-        logoAlt: "Base-mini-apps",
-        title: "Base-mini-apps",
-        subtitle: "built base mini apps",
+        logoAlt: "Base-ecosystem",
+        title: "Base-ecosystem",
+        subtitle: "web3 developer",
         period: "oct 2025 - present",
-        href: "#",
-        description: "built foundational websites, API integration, database schemas.",
-    },
-    {
-        logoSrc: "/playfista_logo.png",
-        logoAlt: "PlayFiesta",
-        title: "PlayFiesta",
-        subtitle: "frontend developer",
-        period: "may 2025 - dec 2025",
-        href: "#",
-        description: "building responsive event & gaming interfaces with react and tailwind.",
+        href: "https://base.app",
+        description: "built base ecosystem mini-apps, API integration, database schemas.",
     },
     {
         logoSrc: "/Aleo-logo-400x400.jpg",
@@ -69,6 +60,24 @@ const workData: WorkCardProps[] = [
         period: "jun 2023 - present",
         href: "https://aleo.org",
         description: "hosted ZK meetups, grew communities during incentivized testnet phases.",
+    },
+    {
+        logoSrc: "/playfista_logo.png",
+        logoAlt: "PlayFiesta",
+        title: "PlayFiesta",
+        subtitle: "software developer",
+        period: "may 2025 - dec 2025",
+        href: "https://playfista.com",
+        description: "building responsive event & gaming interfaces with react and tailwind.",
+    },
+    {
+        logoSrc: "/wrathcode-logo.png",
+        logoAlt: "wrathcode",
+        title: "Wrathcode",
+        subtitle: "software developer intern",
+        period: "dec 2024 - may 2025",
+        href: "https://wrathcode.com",
+        description: "building responsive event & gaming interfaces with react and tailwind.",
     },
 ];
 
