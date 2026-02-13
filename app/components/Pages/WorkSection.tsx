@@ -46,7 +46,7 @@ const workData: WorkCardProps[] = [
     {
         logoSrc: "/base-app-icon.png",
         logoAlt: "Base-ecosystem",
-        title: "Base-ecosystem",
+        title: "base-ecosystem",
         subtitle: "web3 developer",
         period: "oct 2025 - present",
         href: "https://base.app",
@@ -55,7 +55,7 @@ const workData: WorkCardProps[] = [
     {
         logoSrc: "/Aleo-logo-400x400.jpg",
         logoAlt: "Aleo",
-        title: "Aleo",
+        title: "aleo",
         subtitle: "community ambassador",
         period: "jun 2023 - present",
         href: "https://aleo.org",
@@ -64,7 +64,7 @@ const workData: WorkCardProps[] = [
     {
         logoSrc: "/playfista_logo.png",
         logoAlt: "PlayFiesta",
-        title: "PlayFiesta",
+        title: "playFiesta",
         subtitle: "software developer",
         period: "may 2025 - dec 2025",
         href: "https://playfista.com",
@@ -73,8 +73,8 @@ const workData: WorkCardProps[] = [
     {
         logoSrc: "/wrathcode-logo.png",
         logoAlt: "wrathcode",
-        title: "Wrathcode",
-        subtitle: "software developer intern",
+        title: "wrathcode",
+        subtitle: "software developer | intern",
         period: "dec 2024 - may 2025",
         href: "https://wrathcode.com",
         description: "building responsive event & gaming interfaces with react and tailwind.",
@@ -85,7 +85,7 @@ export default function WorkSection() {
     return (
         <section id="work">
             <div className="flex min-h-0 flex-col gap-y-3">
-                <h2 className="text-xl font-bold">work experience</h2>
+                <h2 className="text-xl font-bold">cool places i worked at</h2>
                 {workData.map((work) => (
                     <WorkCard key={work.title} {...work} />
                 ))}
