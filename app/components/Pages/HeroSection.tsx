@@ -26,7 +26,7 @@ const MS_PER_YEAR = 365.2425 * 24 * 60 * 60 * 1000;
 
 const GLITCH_CHARS = "!@#$%^&*()_+-=[]{}|;:,.<>?/~`";
 const PHRASES = ["pranay here", "rugu builds"];
-const HOLD_MS = 3000;      // how long to show the resolved text
+const HOLD_MS = 4000;      // how long to show the resolved text
 const SCRAMBLE_MS = 1000;   // how long the scramble transition takes
 const TICK_MS = 20;        // how often we update during scramble
 
