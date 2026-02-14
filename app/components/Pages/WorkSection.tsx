@@ -75,7 +75,7 @@ const workData: WorkCardProps[] = [
         logoAlt: "wrathcode",
         title: "wrathcode",
         subtitle: "software developer | intern",
-        period: "dec 2024 - may 2025",
+        period: "nov 2024 - may 2025",
         href: "https://wrathcode.com",
         description: "building responsive event & gaming interfaces with react and tailwind.",
     },
