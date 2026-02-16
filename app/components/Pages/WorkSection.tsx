@@ -56,7 +56,7 @@ const workData: WorkCardProps[] = [
         logoSrc: "/Aleo-logo-400x400.jpg",
         logoAlt: "Aleo",
         title: "aleo",
-        subtitle: "community ambassador",
+        subtitle: "community ambassador ",
         period: "jun 2023 - present",
         href: "https://aleo.org",
         description: "hosted ZK meetups, grew communities during incentivized testnet phases.",
